@@ -15,13 +15,6 @@ Uma aplicação simples para gerir tarefas e aumentar a produtividade! 📋
 
 Este projeto tem como objetivo proporcionar uma maneira fácil e eficiente de gerir as suas tarefas diárias. A aplicação permite criar novas tarefas, marcar tarefas como concluídas e eliminar tarefas que não são mais necessárias.
 
-## Funcionalidades ⚡
-
-- **Adicionar tarefas**: Crie novas tarefas facilmente.
-- **Marcar como concluído**: Marque tarefas como concluídas quando terminar.
-- **Eliminar tarefas**: Remova tarefas desnecessárias.
-- **Armazenamento persistente**: As tarefas são armazenadas para não se perderem após fechar a aplicação.
-
 ## Tecnologias Utilizadas ⚙️
 
 - PHP⚛️
@@ -76,10 +69,3 @@ As contribuições são bem-vindas! Para contribuir, siga estes passos:
 4. Envie um push para a sua branch (`git push origin minha-nova-funcionalidade`).
 5. Abra um pull request explicando as alterações feitas.
 
-## Licença 📄
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
-
----
-
-💡 **Nota**: Se tiveres sugestões ou dúvidas, não hesites em abrir uma *issue* ou contactar-nos. Estamos sempre prontos para ajudar! 😊
