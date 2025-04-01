@@ -17,7 +17,9 @@ Este projeto tem como objetivo proporcionar uma maneira fácil e eficiente de ge
 
 ## Tecnologias Utilizadas ⚙️
 
-- PHP⚛️
+- PHP
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 - CSS🟢
 - Alujamento-grátis🗄️
 
